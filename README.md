@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <a name="top"></a>
 <a href="http://spacemacs.org"><img src="https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg" alt="Made with Spacemacs"></a><a href="http://www.twitter.com/spacemacs"><img src="http://i.imgur.com/tXSoThF.png" alt="Twitter" align="right"></a><br>
 - - -
@@ -435,36 +434,7 @@ the spacemacs badge: [![Built with Spacemacs](https://cdn.rawgit.com/syl20bnr/sp
 
 Thank you!
 
-[Twitter]: http://i.imgur.com/tXSoThF.png
-[CONTRIBUTING.org]: CONTRIBUTING.org
-[CONVENTIONS.org]: http://spacemacs.org/doc/CONVENTIONS
-[DOCUMENTATION.org]: http://spacemacs.org/doc/DOCUMENTATION
-[QUICK_START.org]: http://spacemacs.org/doc/QUICK_START
-[FAQ.org]: http://spacemacs.org/doc/FAQ
-[VIMUSERS.org]: http://spacemacs.org/doc/VIMUSERS
-[dotfile]: http://spacemacs.org/doc/DOCUMENTATION#orgheadline45
-[osx layer]: http://spacemacs.org/layers/+os/osx/README.html
-[Gitter Chat]: https://gitter.im/syl20bnr/spacemacs
-[Gitter Chat IRC server]: https://irc.gitter.im/
-[homebrew]: http://brew.sh
-[emacs-for-windows]: http://emacsbinw64.sourceforge.net/
-[emacs-for-windows-stable]: https://sourceforge.net/projects/emacsbinw64/files/release/
-[the platinum searcher]: https://github.com/monochromegane/the_platinum_searcher
-[so-server-unsafe]: http://stackoverflow.com/questions/885793/emacs-error-when-calling-server-start
-[Spacemacs logo]: https://github.com/nashamri/spacemacs-logo
-[Nasser Alshammari]: https://github.com/nashamri
-[cpaulik-unity-icon]: http://splendidabacus.com/posts/2015/03/spacemacs-unity-icon/
-[icon-mac-instructions]: http://www.idownloadblog.com/2014/07/16/how-to-change-app-icon-mac/
-[icon-repository]: https://github.com/nashamri/spacemacs-logo
-[Stack Exchange]: http://emacs.stackexchange.com/questions/tagged/spacemacs
-[Reddit]: https://www.reddit.com/r/spacemacs
-[quote01]: https://gitter.im/syl20bnr/spacemacs?at=568e627a0cdaaa62045a7df6
-[quote02]: https://gitter.im/syl20bnr/spacemacs?at=5768456c6577f032450cfedb
-[build_source]: https://www.gnu.org/software/emacs/manual/html_node/efaq/Installing-Emacs.html
-[Bountysource]: https://salt.bountysource.com/teams/spacemacs
-[Source Code Pro]: https://github.com/adobe-fonts/source-code-pro
-[Spacemacs Shop]: https://shop.spreadshirt.com/spacemacs-shop
-=======
+
 # my own spacemacs-emacs.d
 This emacs configuration is from spacemacs.
 I will change my configure base on this configuration
